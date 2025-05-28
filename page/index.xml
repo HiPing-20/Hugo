@@ -2,42 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Simple&#39;Blog</title>
-        <link>https://HiPing-20.github.io/Hugo/page/</link>
+        <link>https://ochua.eu.org/page/</link>
         <description>Recent content in Pages on Simple&#39;Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Simple&#39;Blog</copyright>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://HiPing-20.github.io/Hugo/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://ochua.eu.org/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>归档</title>
-        <link>https://HiPing-20.github.io/Hugo/archives/</link>
+        <link>https://ochua.eu.org/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://HiPing-20.github.io/Hugo/archives/</guid>
+        <guid>https://ochua.eu.org/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>关于</title>
-        <link>https://HiPing-20.github.io/Hugo/%E5%85%B3%E4%BA%8E/</link>
+        <link>https://ochua.eu.org/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://HiPing-20.github.io/Hugo/%E5%85%B3%E4%BA%8E/</guid>
+        <guid>https://ochua.eu.org/%E5%85%B3%E4%BA%8E/</guid>
         <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>搜索</title>
-        <link>https://HiPing-20.github.io/Hugo/search/</link>
+        <link>https://ochua.eu.org/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://HiPing-20.github.io/Hugo/search/</guid>
+        <guid>https://ochua.eu.org/search/</guid>
         <description></description>
         </item>
         <item>
         <title>友情链接</title>
-        <link>https://HiPing-20.github.io/Hugo/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</link>
+        <link>https://ochua.eu.org/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://HiPing-20.github.io/Hugo/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</guid>
+        <guid>https://ochua.eu.org/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;

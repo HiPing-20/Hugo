@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Simple&#39;Blog</title>
-        <link>https://HiPing-20.github.io/Hugo/categories/</link>
+        <link>https://ochua.eu.org/categories/</link>
         <description>Recent content in Categories on Simple&#39;Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Simple&#39;Blog</copyright>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://HiPing-20.github.io/Hugo/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ochua.eu.org/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Test</title>
-        <link>https://HiPing-20.github.io/Hugo/categories/test/</link>
+        <link>https://ochua.eu.org/categories/test/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://HiPing-20.github.io/Hugo/categories/test/</guid>
-        <description>&lt;img src="https://HiPing-20.github.io/Hugo/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        <guid>https://ochua.eu.org/categories/test/</guid>
+        <description>&lt;img src="https://ochua.eu.org/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
         </item>
         <item>
         <title>测试</title>
-        <link>https://HiPing-20.github.io/Hugo/categories/%E6%B5%8B%E8%AF%95/</link>
+        <link>https://ochua.eu.org/categories/%E6%B5%8B%E8%AF%95/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://HiPing-20.github.io/Hugo/categories/%E6%B5%8B%E8%AF%95/</guid>
+        <guid>https://ochua.eu.org/categories/%E6%B5%8B%E8%AF%95/</guid>
         <description></description>
         </item>
         <item>
         <title>Syntax</title>
-        <link>https://HiPing-20.github.io/Hugo/categories/syntax/</link>
+        <link>https://ochua.eu.org/categories/syntax/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://HiPing-20.github.io/Hugo/categories/syntax/</guid>
+        <guid>https://ochua.eu.org/categories/syntax/</guid>
         <description></description>
         </item>
         <item>
         <title>Themes</title>
-        <link>https://HiPing-20.github.io/Hugo/categories/themes/</link>
+        <link>https://ochua.eu.org/categories/themes/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://HiPing-20.github.io/Hugo/categories/themes/</guid>
+        <guid>https://ochua.eu.org/categories/themes/</guid>
         <description></description>
         </item>
         <item>
         <title>Test With Whitespaces</title>
-        <link>https://HiPing-20.github.io/Hugo/categories/test-with-whitespaces/</link>
+        <link>https://ochua.eu.org/categories/test-with-whitespaces/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://HiPing-20.github.io/Hugo/categories/test-with-whitespaces/</guid>
+        <guid>https://ochua.eu.org/categories/test-with-whitespaces/</guid>
         <description></description>
         </item>
         
