@@ -5,22 +5,22 @@
     <loc>https://ochua.eu.org/</loc>
     <lastmod>2025-05-28T21:33:10+08:00</lastmod>
   </url><url>
+    <loc>https://ochua.eu.org/categories/</loc>
+    <lastmod>2025-05-28T21:33:10+08:00</lastmod>
+  </url><url>
     <loc>https://ochua.eu.org/post/</loc>
     <lastmod>2025-05-28T21:33:10+08:00</lastmod>
   </url><url>
-    <loc>https://ochua.eu.org/tags/</loc>
+    <loc>https://ochua.eu.org/categories/%E6%8C%81%E7%BB%AD%E6%80%A7%E7%9A%84/</loc>
     <lastmod>2025-05-28T21:33:10+08:00</lastmod>
   </url><url>
-    <loc>https://ochua.eu.org/tags/%E6%8C%81%E7%BB%AD%E6%80%A7%E7%9A%84/</loc>
-    <lastmod>2025-05-28T21:33:10+08:00</lastmod>
-  </url><url>
-    <loc>https://ochua.eu.org/tags/%E5%AD%98%E5%9C%A8%E6%84%8F%E4%B9%89/</loc>
+    <loc>https://ochua.eu.org/categories/%E5%AD%98%E5%9C%A8%E6%84%8F%E4%B9%89/</loc>
     <lastmod>2025-05-28T21:33:10+08:00</lastmod>
   </url><url>
     <loc>https://ochua.eu.org/p/%E5%AD%98%E5%9C%A8%E4%B9%8B%E6%84%8F%E4%B9%89/</loc>
     <lastmod>2025-05-28T21:33:10+08:00</lastmod>
   </url><url>
-    <loc>https://ochua.eu.org/tags/%E6%95%B0%E5%AD%97%E7%97%95%E8%BF%B9/</loc>
+    <loc>https://ochua.eu.org/categories/%E6%95%B0%E5%AD%97%E7%97%95%E8%BF%B9/</loc>
     <lastmod>2025-05-28T21:33:10+08:00</lastmod>
   </url><url>
     <loc>https://ochua.eu.org/page/</loc>
@@ -29,7 +29,7 @@
     <loc>https://ochua.eu.org/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ochua.eu.org/categories/</loc>
+    <loc>https://ochua.eu.org/tags/</loc>
   </url><url>
     <loc>https://ochua.eu.org/categories/test/</loc>
   </url><url>
